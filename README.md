@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Tereza 👋
+
+- 🎓 Recent Master's graduate in Visual Informatics from Masaryk University
+- 💻 Passionate about software development, computer graphics, and visualization
+- 🧬 Enjoy applying visual computing to problems outside computer science, such as molecular biology
+
+## Featured Projectes
+
 
 <!--
 **terezacah/terezacah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
