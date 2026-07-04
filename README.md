@@ -9,7 +9,7 @@
 <details>
 <summary>🦝 <b>Bachelor's Thesis</b> & <b>COO AR</b>: Mobile AR application combining multiple interactive experiences developed for HCI Lab (FI MUNI)</summary>
   
-- App Repository: [COO App](https://github.com/terezacah/COO)
+- COO App: [Repository](https://github.com/terezacah/COO)
 - Bachelor's Thesis (_COOrious: AR Game_): [Repository](https://github.com/terezacah/hciLabGame) | [Thesis](https://is.muni.cz/auth/th/t5f2x/)
 - Developed in Unity and Vuforia
 </details>
