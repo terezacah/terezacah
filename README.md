@@ -11,7 +11,7 @@
   
 - COO App: [Repository](https://github.com/terezacah/COO)
 - Bachelor's Thesis (_COOrious: AR Game_): [Repository](https://github.com/terezacah/hciLabGame) | [Thesis](https://is.muni.cz/auth/th/t5f2x/)
-- Developed in Unity and Vuforia
+- Built with Unity and Vuforia
 </details>
 
 <details>
@@ -36,6 +36,16 @@
 - [Repository](https://github.com/terezacah/compGeom)
 - Convex hull, polygon triangulation, k-D tree, Delaunay triangulation, Voronoi diagram
 - Built with Processing
+
+</details>
+
+<details>
+<summary>🧠 <b>Deep Learning From Scratch</b>: Feed-forward neural network implementation without the use of external libraries</summary>
+
+- [Repository](https://github.com/terezacah/neuronkaFromScratch)
+- Team project (of 2 students) developed as part of a university course
+- My contribtions: backpropagation, forward pass, training pipeline
+- Implemented in C
 
 </details>
 
