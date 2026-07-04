@@ -4,7 +4,7 @@
 - 💻 Passionate about software development, computer graphics, and visualization
 - 🧬 Enjoy applying visual computing to problems outside computer science, such as molecular biology
 
-## Featured Projectes 
+## Featured Projects 
 - 📊 Personal implementation of the **VAST Challenge 2019: Disaster at St. Himark**  
   Interactive visual analytics tool for exploring crowd-sourced disaster response data (D3.js).  
   👉 [Repository](https://github.com/terezacah/himark) | 📄 [Project Report (PDF)](https://github.com/terezacah/himark/blob/main/St__Himark.pdf)
