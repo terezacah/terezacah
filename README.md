@@ -30,6 +30,15 @@
 - Built with TypeScript, Svelte, and WebGPU
 </details>
 
+<details>
+<summary>📐 <b>Computational Geometry Project</b>: Implementation of core geometric structures and algorithms</summary>
+
+- [Repository](https://github.com/terezacah/compGeom)
+- Convex hull, polygon triangulation, k-D tree, Delaunay triangulation, Voronoi diagram
+- Built with Processing
+
+</details>
+
 <!--
 **terezacah/terezacah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
