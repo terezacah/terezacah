@@ -11,7 +11,7 @@
   
 - COO App: [Repository](https://github.com/terezacah/COO)
 - Bachelor's Thesis (_COOrious: AR Game_): [Repository](https://github.com/terezacah/hciLabGame) | [Thesis](https://is.muni.cz/auth/th/t5f2x/)
-- Built with Unity and Vuforia
+- Built with AR.js
 </details>
 
 <details>
