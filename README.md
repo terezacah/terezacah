@@ -1,7 +1,7 @@
 ## Hi, I'm Tereza 👋
 
 - 🎓 Recent Master's graduate in Visual Informatics from Masaryk University
-- 💻 Passionate about software development, computer graphics, and visualization
+- 💻 Passionate about software development, data analysis, computer graphics, and visualization
 - 🧬 Enjoy applying visual computing to problems outside computer science, such as molecular biology
 
 ## Selected Projects 
