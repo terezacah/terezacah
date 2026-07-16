@@ -23,14 +23,6 @@
 </details>
 
 <details>
-<summary>🧬 <b>Master's Thesis</b>: Projection of Chromatin Properties on Abstracted Surfaces</summary>
-
-- [Thesis](https://is.muni.cz/auth/th/ljam6/)
-- Part of the Chromoskein visualization tool for genomic data analysis (FI MUNI)
-- Built with TypeScript, Svelte, and WebGPU
-</details>
-
-<details>
 <summary>📐 <b>Computational Geometry Project</b>: Implementation of core geometric structures and algorithms</summary>
 
 - [Repository](https://github.com/terezacah/compGeom)
@@ -47,6 +39,24 @@
 - My contribtions: backpropagation, forward pass, training pipeline
 - Implemented in C
 
+</details>
+
+<details>
+<summary>🎨 <b>Computer Graphics Projects</b>: OpenGL and real-time rendering</summary>
+
+- Collection of projects developed as part of university computer graphics courses
+- Topics include non-photorealistic rendering (procedural hatching, SSAO, shadow mapping, Sobel edge detection), GPU snow simulation and tessellation-based snow cover, free-form mesh deformation, path tracing, collision detection (BVH), or NURBS
+- Built with C++ and OpenGL
+- Source code is not publicly available due to licensing restrictions of the university framework
+
+</details>
+
+<details>
+<summary>🧬 <b>Master's Thesis</b>: Projection of Chromatin Properties on Abstracted Surfaces</summary>
+
+- [Thesis](https://is.muni.cz/auth/th/ljam6/)
+- Part of the Chromoskein visualization tool for genomic data analysis (FI MUNI)
+- Built with TypeScript, Svelte, and WebGPU
 </details>
 
 <!--
