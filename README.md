@@ -1,8 +1,8 @@
 ## Hi, I'm Tereza 👋
 
 - 🎓 Recent Master's graduate in Visual Informatics from Masaryk University
-- 💻 Passionate about software development, data analysis, computer graphics, and visualization
-- 🧬 Enjoy applying visual computing to problems outside computer science, such as molecular biology
+- 💻 Passionate about software development, data analysis, computer graphics, and data visualization
+- 🧬 Enjoy developing software for specialized domains, continuously learning about fields beyond computer science
 
 ## Selected Projects 
 
@@ -42,10 +42,9 @@
 </details>
 
 <details>
-<summary>🎨 <b>Computer Graphics Projects</b>: OpenGL and real-time rendering</summary>
-
-- Collection of projects developed as part of university computer graphics courses
-- Topics include non-photorealistic rendering (procedural hatching, SSAO, shadow mapping, Sobel edge detection), GPU snow simulation and tessellation-based snow cover, free-form mesh deformation, path tracing, collision detection (BVH), or NURBS
+<summary>🎨 <b>Computer Graphics Projects</b>: Collection of projects developed as part of university computer graphics courses</summary>
+  
+- E.g., non-photorealistic rendering (procedural hatching, SSAO, shadow mapping, Sobel edge detection), GPU snow simulation and tessellation-based snow cover, free-form mesh deformation, path tracing, collision detection (BVH), or NURBS
 - Built with C++ and OpenGL
 - Source code is not publicly available due to licensing restrictions of the university framework
 
