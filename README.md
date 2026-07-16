@@ -44,7 +44,7 @@
 <details>
 <summary>🎨 <b>Computer Graphics Projects</b>: Collection of projects developed as part of university computer graphics courses</summary>
   
-- E.g., non-photorealistic rendering (procedural hatching, SSAO, shadow mapping, Sobel edge detection), GPU snow simulation and tessellation-based snow cover, free-form mesh deformation, path tracing, collision detection (BVH), or NURBS
+- E.g., [non-photorealistic rendering](https://github.com/terezacah/hatching) (procedural hatching, SSAO, shadow mapping, Sobel edge detection), GPU snow simulation and tessellation-based snow cover, free-form mesh deformation, path tracing, collision detection (BVH), or NURBS
 - Built with C++ and OpenGL
 - Source code is not publicly available due to licensing restrictions of the university framework
 
